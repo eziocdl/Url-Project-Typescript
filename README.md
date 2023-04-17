@@ -1,1 +1,3 @@
-# url-project-dio
+# Url Project Typescript
+
+Url shortener created in typescript.
